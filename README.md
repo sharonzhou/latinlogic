@@ -1,11 +1,8 @@
 Latin Logic -- 
-|- client
-|  |- js logic
-|- server
-|  |- mongo
-|- public
-|  |- imgs
-|- html
-|- css
-|- model
+Client
+Server (mongo)
+Public (svg)
+Model
+Html
+Css
 ==========
