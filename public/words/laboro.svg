@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="74px" viewBox="0 0 135 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>laboro</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="laboro" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)">
+            <path d="M-0.5,0.669764365 L-0.5,0.0810546875 L133.5,0.0810546875 L133.5,73.0810547 L-0.5,73.0810547 L-0.5,72.492345 L30,36.5810547 L-0.5,0.669764365 Z" id="Rectangle-12" fill="#1D56D9" sketch:type="MSShapeGroup"></path>
+            <text sketch:type="MSTextLayer" font-family="Helvetica" font-size="25" font-weight="bold" fill="#FFFFFF">
+                <tspan x="43" y="46">labor</tspan>
+                <tspan x="104.120605" y="46" text-decoration="underline">o</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
